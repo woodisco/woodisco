@@ -18,12 +18,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
 </span>
-
 <br>
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodisco&theme=dark&show_icons=true)
