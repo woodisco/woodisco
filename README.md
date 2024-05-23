@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<span>
+  <a href="https://woodisco.tistory.com/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=storyblok&logoColor=#09B3AF"/>
+  </a>
+</span>
