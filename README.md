@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <span>
   <a href="https://woodisco.tistory.com/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=storyblok&logoColor=#09B3AF"/>
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
 </span>
